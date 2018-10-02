@@ -1,0 +1,15 @@
+{
+  "name": "formdesignerserver",
+  "version": "1.0.0",
+  "description": "Server to handle formdesigner requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Madhav Mohtta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.3.0"
+  }
+}
